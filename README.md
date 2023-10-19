@@ -6,8 +6,6 @@
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-- [Usage](#usage)
-- [Packages Used](#packages-used)
 - [API Documentation](#api-documentation)
 - [License](#license)
 
